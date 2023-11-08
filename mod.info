@@ -1,0 +1,4 @@
+name=SSR: Quest System
+id=ssr-quests
+description=SSR: Quest System is a framework that allows creating complex quests with nonlinear dialogues and multiple endings. Limited only by person's creativity and game capabilities, it provides a set of APIs and flexible custom scripting language that can be easily expanded with new commands, quest tasks, etc. Works both in singleplayer and multiplayer. Mod is still in development. This WIP build is only for testers, selected by me. Join my discord server to follow the updates: https://discord.gg/UKcbcwXjyX
+poster=poster.png
